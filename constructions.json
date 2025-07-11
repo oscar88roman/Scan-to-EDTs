@@ -1,0 +1,3012 @@
+[
+  {
+    "name": "external_wall_brick_10cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.125,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": "b0a6a2d1-9999-4ff6-a7f9-1b98c7b1f999",
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_12cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.15,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_15cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.175,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_17cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.2,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_20cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_25cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_30cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "internal_wall_brick_10cm",
+    "wall_type": "internal_wall",
+    "match_thickness": 0.125,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "internal_wall_brick_12cm",
+    "wall_type": "internal_wall",
+    "match_thickness": 0.15,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "internal_wall_brick_15cm",
+    "wall_type": "internal_wall",
+    "match_thickness": 0.175,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "internal_wall_brick_17cm",
+    "wall_type": "internal_wall",
+    "match_thickness": 0.2,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "internal_wall_brick_20cm",
+    "wall_type": "internal_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "internal_wall_brick_25cm",
+    "wall_type": "internal_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "internal_wall_brick_30cm",
+    "wall_type": "internal_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_10cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.15,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_10cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.175,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_10cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_10cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_10cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_10cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_12cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.175,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_12cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.2,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_12cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_12cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_12cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_12cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_15cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.2,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_15cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_15cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_15cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_15cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_15cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_17cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_17cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_17cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_17cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_17cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_17cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.4,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_20cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_20cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_20cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_20cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_20cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_20cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.425,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_25cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_25cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_25cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_25cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.4,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_25cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.425,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_25cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.475,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_30cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_30cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_30cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.425,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_30cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.45,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_30cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.475,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_30cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.525,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_10cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.125,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_10cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.15,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_10cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.175,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_10cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_10cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_10cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_10cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.1
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_12cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.15,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_12cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.175,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_12cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.2,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_12cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_12cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_12cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_12cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.125
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_15cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.175,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_15cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.2,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_15cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_15cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_15cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_15cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_15cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.15
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_17cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.2,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.175
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_17cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_17cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_17cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_17cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_17cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_17cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.4,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.175
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_20cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_20cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_20cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_20cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_20cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_20cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_20cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.425,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.2
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_25cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.275,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.25
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_25cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.3,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_25cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_25cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_25cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.4,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_25cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.425,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_25cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.475,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.25
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_30cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.3
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_30cm_insul_25mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.025
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_30cm_insul_50mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.05
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_30cm_insul_100mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.425,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.1
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_30cm_insul_125mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.45,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.125
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_30cm_insul_150mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.475,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.15
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_concrete_30cm_insul_200mm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.525,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "concrete_reinforced",
+        "material_uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+        "thickness": 0.3
+      },
+      {
+        "material": "insulation_eps",
+        "material_uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+        "thickness": 0.2
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      } 
+    ]
+  },
+    {
+    "name": "window_double_glass",
+    "wall_type": "window",
+    "match_thickness": 0.05,
+    "layers": [
+      {
+        "material": "glass_double",
+        "material_uuid": "b0a6a2d1-2001-4ff6-a7f9-1b98c7b1f201",
+        "thickness": 0.04
+      },
+      {
+        "material": "sealant",
+        "material_uuid": "b0a6a2d1-2002-4ff6-a7f9-1b98c7b1f202",
+        "thickness": 0.005
+      },
+      {
+        "material": "frame_aluminium",
+        "material_uuid": "b0a6a2d1-2003-4ff6-a7f9-1b98c7b1f203",
+        "thickness": 0.005
+      }
+    ]
+  },
+  {
+    "name": "door_wooden_4cm",
+    "wall_type": "door",
+    "match_thickness": 0.04,
+    "layers": [
+      {
+        "material": "wood",
+        "material_uuid": "b0a6a2d1-3001-4ff6-a7f9-1b98c7b1f301",
+        "thickness": 0.035
+      },
+      {
+        "material": "varnish_finish",
+        "material_uuid": "b0a6a2d1-3002-4ff6-a7f9-1b98c7b1f302",
+        "thickness": 0.005
+      }
+    ]
+  },
+  {
+    "name": "ceiling_concrete_plastered",
+    "wall_type": "ceiling",
+    "match_thickness": 0.25,
+    "layers": [
+      {
+        "material": "plaster_internal",
+        "material_uuid": "b0a6a2d1-4001-4ff6-a7f9-1b98c7b1f401",
+        "thickness": 0.015
+      },
+      {
+        "material": "concrete",
+        "material_uuid": "b0a6a2d1-4002-4ff6-a7f9-1b98c7b1f402",
+        "thickness": 0.22
+      },
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-4003-4ff6-a7f9-1b98c7b1f403",
+        "thickness": 0.015
+      }
+    ]
+  },
+  {
+    "name": "floor_concrete_wood_finish",
+    "wall_type": "floor",
+    "match_thickness": 0.30,
+    "layers": [
+      {
+        "material": "wood_parquet",
+        "material_uuid": "b0a6a2d1-5001-4ff6-a7f9-1b98c7b1f501",
+        "thickness": 0.02
+      },
+      {
+        "material": "screed",
+        "material_uuid": "b0a6a2d1-5002-4ff6-a7f9-1b98c7b1f502",
+        "thickness": 0.05
+      },
+      {
+        "material": "concrete",
+        "material_uuid": "b0a6a2d1-5003-4ff6-a7f9-1b98c7b1f503",
+        "thickness": 0.23
+      }
+    ]
+  },
+  {
+  "name": "window_triple_glass",
+  "wall_type": "window",
+  "match_thickness": 0.045,
+  "layers": [
+    {"material": "glass_triple", "thickness": 0.015},
+    {"material": "argon_gas", "thickness": 0.01},
+    {"material": "glass_triple", "thickness": 0.015}
+  ]
+  },
+  {
+    "name": "window_single_glass",
+    "wall_type": "window",
+    "match_thickness": 0.01,
+    "layers": [
+      {"material": "glass", "thickness": 0.01}
+    ]
+  },  
+  {
+    "name": "external_wall_brick_22.5cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.225,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.20
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_32.5cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.325,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.30
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_35cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.35,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.325
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_37.5cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.375,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.35
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_40cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.4,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.375
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_45cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.45,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.425
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_60cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.6,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.575
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  },
+  {
+    "name": "external_wall_brick_65cm",
+    "wall_type": "external_wall",
+    "match_thickness": 0.65,
+    "layers": [
+      {
+        "material": "plaster_external",
+        "material_uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+        "thickness": 0.0125
+      },
+      {
+        "material": "bricks_full",
+        "material_uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+        "thickness": 0.625
+      },
+      {
+        "material": "mortar",
+        "material_uuid": null,
+        "thickness": 0.0125
+      }
+    ]
+  }
+]
+
+
+

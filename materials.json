@@ -1,0 +1,150 @@
+[
+  {
+    "uuid": "b0a6a2d1-1001-4ff6-a7f9-1b98c7b1f001",
+    "material_id": 101,
+    "name": "plaster_internal",
+    "lambda_W_per_mK": 0.70,
+    "density_kg_per_m3": 950
+  },
+  {
+    "uuid": "b0a6a2d1-1002-4ff6-a7f9-1b98c7b1f002",
+    "material_id": 102,
+    "name": "bricks_full",
+    "lambda_W_per_mK": 0.72,
+    "density_kg_per_m3": 1800
+  },
+  {
+    "uuid": "b0a6a2d1-1003-4ff6-a7f9-1b98c7b1f003",
+    "material_id": 103,
+    "name": "bricks_perforated",
+    "lambda_W_per_mK": 0.45,
+    "density_kg_per_m3": 1400
+  },
+  {
+    "uuid": "b0a6a2d1-1004-4ff6-a7f9-1b98c7b1f004",
+    "material_id": 104,
+    "name": "concrete_reinforced",
+    "lambda_W_per_mK": 2.10,
+    "density_kg_per_m3": 2400
+  },
+  {
+    "uuid": "b0a6a2d1-1005-4ff6-a7f9-1b98c7b1f005",
+    "material_id": 105,
+    "name": "concrete_lightweight",
+    "lambda_W_per_mK": 0.60,
+    "density_kg_per_m3": 1100
+  },
+  {
+    "uuid": "b0a6a2d1-1006-4ff6-a7f9-1b98c7b1f006",
+    "material_id": 106,
+    "name": "wood",
+    "lambda_W_per_mK": 0.13,
+    "density_kg_per_m3": 550
+  },
+  {
+    "uuid": "b0a6a2d1-1007-4ff6-a7f9-1b98c7b1f007",
+    "material_id": 107,
+    "name": "insulation_eps",
+    "lambda_W_per_mK": 0.035,
+    "density_kg_per_m3": 25
+  },
+  {
+    "uuid": "b0a6a2d1-1008-4ff6-a7f9-1b98c7b1f008",
+    "material_id": 108,
+    "name": "insulation_rockwool",
+    "lambda_W_per_mK": 0.036,
+    "density_kg_per_m3": 30
+  },
+  {
+    "uuid": "b0a6a2d1-1009-4ff6-a7f9-1b98c7b1f009",
+    "material_id": 109,
+    "name": "glass",
+    "lambda_W_per_mK": 1.00,
+    "density_kg_per_m3": 2500,
+    "g_value": 0.6
+  },
+  {
+    "uuid": "b0a6a2d1-1010-4ff6-a7f9-1b98c7b1f010",
+    "material_id": 113,
+    "name": "plaster_external",
+    "lambda_W_per_mK": 0.93,
+    "density_kg_per_m3": 1050
+  },
+  {
+    "uuid": "b0a6a2d1-2001-4ff6-a7f9-1b98c7b1f011",
+    "material_id": 201,
+    "name": "concrete",
+    "lambda_W_per_mK": 2.0,
+    "density_kg_per_m3": 2300
+  },
+  {
+    "uuid": "b0a6a2d1-2002-4ff6-a7f9-1b98c7b1f012",
+    "material_id": 202,
+    "name": "mortar",
+    "lambda_W_per_mK": 0.87,
+    "density_kg_per_m3": 1800
+  },
+  {
+    "uuid": "b0a6a2d1-2003-4ff6-a7f9-1b98c7b1f013",
+    "material_id": 203,
+    "name": "screed",
+    "lambda_W_per_mK": 0.85,
+    "density_kg_per_m3": 2000
+  },
+  {
+    "uuid": "b0a6a2d1-2004-4ff6-a7f9-1b98c7b1f014",
+    "material_id": 204,
+    "name": "wood_parquet",
+    "lambda_W_per_mK": 0.17,
+    "density_kg_per_m3": 750
+  },
+  {
+    "uuid": "b0a6a2d1-2005-4ff6-a7f9-1b98c7b1f015",
+    "material_id": 205,
+    "name": "wood",
+    "lambda_W_per_mK": 0.16,
+    "density_kg_per_m3": 700
+  },
+  {
+    "uuid": "b0a6a2d1-2006-4ff6-a7f9-1b98c7b1f016",
+    "material_id": 206,
+    "name": "glass_double",
+    "lambda_W_per_mK": 1.0,
+    "density_kg_per_m3": 2500
+  },
+  {
+  "uuid": "b0a6a2d1-3006-4ff6-a7f9-1b98c7b1f017",
+  "material_id": 306,
+  "name": "glass_triple",
+  "lambda_W_per_mK": 0.7,
+  "density_kg_per_m3": 2700
+},
+  {
+    "uuid": "b0a6a2d1-2007-4ff6-a7f9-1b98c7b1f017",
+    "material_id": 207,
+    "name": "sealant",
+    "lambda_W_per_mK": 0.2,
+    "density_kg_per_m3": 1200
+  },
+  {
+    "uuid": "b0a6a2d1-2008-4ff6-a7f9-1b98c7b1f018",
+    "material_id": 208,
+    "name": "frame_aluminium",
+    "lambda_W_per_mK": 160.0,
+    "density_kg_per_m3": 2700
+  },
+  {
+    "uuid": "b0a6a2d1-2009-4ff6-a7f9-1b98c7b1f019",
+    "material_id": 209,
+    "name": "varnish_finish",
+    "lambda_W_per_mK": 0.15,
+    "density_kg_per_m3": 900
+  },
+  {
+  "uuid": "b0a6a2d1-3010-4ff6-a7f9-1b98c7b1f020",
+  "material_id": 210,
+  "name": "argon_gas",
+  "lambda_W_per_mK": 0.016,
+  "density_kg_per_m3": 1.78
+}
+]
