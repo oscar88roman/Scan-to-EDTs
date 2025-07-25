@@ -7,8 +7,11 @@ This repository provides an end-to-end framework for converting building scan da
 ## 🚀 Workflow Overview
 
 ### 🔍 1. Input & Preprocessing
-- Input **Point Cloud** or **Scan-to-BIM** (Solid Model)
-- **Geometric Assessment** generates a **Topologic B-REP Model**
+- Input **Point Cloud** & Classification via Point Transformer v3 and Pointcept
+- **Scan-to-BIM** (Solid Model) [Roman et al., 2024]
+- **Geometric Assessment**
+- **Solid Model**
+- **Topologic B-REP Model**
 
 ### 🧠 2. Semantic Enrichment
 Apply **Information Loading Dictionaries (ILDs)**:
