@@ -41,18 +41,16 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 
 ---
 
-## 📦 Main Components
+| Module              | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `scan2bim/`         | Scripts for converting point clouds into solid BIM geometry  |
+| `scan2edts/`        | Tools for generating topological B-REP models                |
+| `semantic_loader/`  | Load ILDs and attach semantic/typological metadata           |
+| `model_converter/`  | Utilities for IFC, gbXML, and Topologic model conversion     |
+| `energy_simulator/` | Integration with EnergyPlus (EPJSON-based simulation)        |
+| `iot_interface/`    | Real-time ingestion and formatting of IoT sensor data        |
+| `digital_twin/`     | Modules for monitoring, simulation, and ML-based forecasting |
 
-| Module             | Description                                                |
-|-------------------|------------------------------------------------------------|
-| `scan2bim/`        | Scripts for converting point clouds to B-REP/solid models |
-| `semantic_loader/` | Tools for loading ILDs and attaching semantic metadata     |
-| `model_converter/` | IFC/gbXML/Topologic conversion utilities                   |
-| `energy_simulator/`| Integration with EnergyPlus and EPJSON format              |
-| `iot_interface/`   | Real-time IoT data ingestion and formatting                |
-| `digital_twin/`    | Monitoring, simulation, and ML-driven scenario modules     |
-
----
 
 ## 📊 Output Examples
 
