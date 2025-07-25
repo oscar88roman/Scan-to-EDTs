@@ -1,55 +1,93 @@
-# 🏗️ Digital Twin Geometry Pipeline for BIM & Energy Assessment
+🏗️ Scan-to-BIM to Energy Digital Twin Framework
+This repository provides an end-to-end framework for converting building scan data into rich energy simulation models and digital twins. It leverages geometric assessment, semantic enrichment, and data-driven modeling to enable energy-efficient building management and forecasting.
 
-<img src="./docs/f9da4944-e6e0-4187-8498-26e9d1bbe01a.png" width="100%" />
+🚀 Workflow Overview
+🔍 1. Input & Preprocessing
+Input Point Cloud or Scan-to-BIM (Solid Model)
 
-## 📦 Overview
+Geometric Assessment generates a Topologic B-REP Model
 
-This repository provides a full Python pipeline for creating **semantically rich IFC files** from pre-processed geometric models (e.g., CityJSON, GeoJSON, point clouds), enriched with thickness, height, surface type and WKT-based geometry. It's designed to support:
+🧠 2. Semantic Enrichment
+Apply Information Loading Dictionaries (ILDs):
 
-- 🧱 **Wall, floor, ceiling, door, window, and space generation**
-- 📐 **3D geometric reconstruction and spatial placement**
-- ♻️ **IFC4 export (via `ifcopenshell`)**
-- 🔌 **Integration with BEM tools like EnergyPlus or EPJSON**
-- 🧠 **ML-ready output for digital twin simulation & prediction**
+Thickness
 
----
+Materials
 
-## 🔧 Features
+Dimensions
 
-- ✅ Automatic **thickness inference** per surface type (`external_wall`, `party_wall`, etc.)
-- ✅ Dynamic **wall height extraction** from 3D geometry (`z_min`, `z_max`)
-- ✅ Geometry parsing via **WKT/`shapely`**
-- ✅ IFC creation using **`ifcopenshell`** with spatial hierarchy: Project → Building → Storey → Elements
-- ✅ Support for:
-  - 🧱 `IfcWallStandardCase`
-  - 🪟 `IfcWindow`, 🚪 `IfcDoor`
-  - 🧭 `IfcSpace`
-  - 🏗️ `IfcSlab`, `IfcCovering` (floor, ceiling)
-- ✅ Clean object placement, local positioning, and profile-based extrusion
+Setpoints (Tmin, Tmax)
 
----
+Devices & Rules (e.g., European Regulations)
 
-## 📂 Workflow
+Outputs a Building Energy Model (BEM) for simulation
 
-<img src="./docs/762a6699-db65-49fb-8243-d644cc57488f.png" width="100%" />
+🧱 3. Model Transformation
+Convert to:
 
-### 📉 Input
+IFC Model
 
-- `df_building_`: Geometry and thematic surfaces (walls, floors, ceilings)
-- `df_door`, `df_window`, `df_room`: Optional semantic objects
-- `surface_vertices`: 3D polygons defining geometry
+gbXML
 
-### 🔄 Process
+Topologic Models (Volumetric & Thematic Surface Models)
 
-1. **Parse & clean geometry** (WKT, surface triangulation, z-min/max)
-2. **Infer thickness & height**
-3. **Generate wall/floor/ceiling/window/door entities**
-4. **Attach to building storey**
-5. **Export IFC4-compliant model**
+Export using EPJSON via parser/transformer/writer tools
 
----
+⚙️ 4. Simulation & Analysis
+Run with EnergyPlus
 
-## 🚀 Quickstart
+Use Real-Time IoT Data & ML/DL algorithms for:
 
-```bash
-pip install pandas shapely ifcopenshell numpy
+📈 Digital Twin Level 1: Real-Time Monitoring
+
+🧪 Digital Twin Level 2: Simulation Scenarios
+
+🔮 Digital Twin Level 3: Forecasting and Scenario Testing
+
+📦 Main Components
+Module	Description
+scan2bim/	Scripts for converting point clouds to B-REP/solid models
+semantic_loader/	Tools for loading ILDs and attaching semantic metadata
+model_converter/	IFC/gbXML/Topologic conversion utilities
+energy_simulator/	Integration with EnergyPlus and EPJSON format
+iot_interface/	Real-time IoT data ingestion and formatting
+digital_twin/	Monitoring, simulation, and ML-driven scenario modules
+
+📊 Output Examples
+Geometric Models for analysis & compliance checks
+
+Energy Simulation Graphs showing heating/cooling loads
+
+IoT Monitoring Dashboards for real-time insights
+
+🔧 Requirements
+Python 3.8+
+
+EnergyPlus
+
+OpenCascade / Topologic
+
+IFCOpenShell
+
+NumPy, Pandas, Scikit-learn
+
+TensorFlow / PyTorch (optional, for ML modules)
+
+💡 Use Cases
+Retrofitting analysis
+
+HVAC optimization
+
+Smart building simulation
+
+Building performance benchmarking
+
+📎 References
+EnergyPlus
+
+Topologic
+
+IFCOpenShell
+
+👨‍💻 Contributing
+PRs are welcome! For major changes, please open an issue first to discuss what you would like to change.
