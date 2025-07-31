@@ -90,32 +90,39 @@ Segment your 3D scan and assign labels such as:
 
 🔹 2. 🗂️ Reference Classes in a JSON
 Map raw class IDs to standard building types:
+
 { "1": "wall", "2": "floor", "3": "window", "99": "unclassified" }
 
 🔹 3. 🧭 Generate Topological Graph
 Run graph_generator to compute spatial relationships:
+
 ➡️ adjacency | connectivity | grouping
 
 🔹 4. 📦 Create EDT Structure (Solid Model)
 Run: step_01_scan_to_edts
+
 🔁 Converts point cloud into solid EDT-based volume.
 
 🔹 5. 🧱 Generate B-Rep Geometry
 Run: step_02_scan_to_edts
+
 🔁 Outputs clean boundary surfaces with topology and semantics.
 
 🔹 6. 🧪 Assign Materials and Layers
 Run: step_03_assign_material
+
 📄 Output: <filename>_with_materials.csv
 Use epJSON_parser to convert into .epJSON for EnergyPlus.
 
 🔹 7. 🔥 Run Simulation & Export gbXML
 Run: step_04_energy_simulation_uep
+
 🧾 Generates valid gbXML
 Use: gbXML_parser_transformer_writer to inspect/edit.
 
 🔹 8. 🏢 Export to IFC (Optional)
 Use: IFC_parser_transformer_writer
+
 ➡️ Export the full model to .IFC for BIM software (Revit, BIMcollab, etc.)
 
 
