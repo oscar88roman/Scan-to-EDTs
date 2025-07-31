@@ -79,6 +79,40 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 - Building performance benchmarking  
 
 ---
+🏗️ End-to-End Building Model Generation Pipeline
+This pipeline converts a classified point cloud into a semantically rich, simulation-ready, and BIM-compatible building model.
+
+🔹 1. 🛰️ Classify your point cloud
+Segment your 3D scan using your preferred tool and assign labels to elements like:
+🧱 walls | 🪟 windows | 🚪 doors | 🧼 ceilings | 🛗 floors | 🪜 columns | ❓ unclassified
+
+🔹 2. 🗂️ Reference classes in a JSON
+Define a mapping between your point cloud labels and building elements:
+
+{ "1": "wall", "2": "floor", "3": "window", "99": "unclassified" }
+
+🔹 3. 🧭 Create the topological graph
+Use the graph_generator script to build spatial relationships (adjacency, connectivity) between components.
+
+🔹 4. 📦 From scan → EDT structure (solid model)
+Run step_01_scan_to_edts to convert the labeled point cloud into a volume-based solid representation.
+
+🔹 5. 🧱 Generate the B-Rep geometry
+Run step_02_scan_to_edts to extract explicit boundary surfaces from the EDT structure.
+Result: a clean, watertight geometry.
+
+🔹 6. 🧪 Assign material and construction layers
+Run step_03_assign_material to attach materials and layered construction properties to each element.
+⬇️ Output: <filename>_with_materials.csv
+Then use the epJSON_parser to generate EnergyPlus input.
+
+🔹 7. 🔥 Simulate & export gbXML
+Run step_04_energy_simulation_uep to simulate building performance and generate a valid gbXML model.
+Use gbXML_parser_transformer_writer to inspect or transform this export.
+
+🔹 8. 🏢 Export to IFC (optional)
+Use IFC_parser_transformer_writer to convert your enriched model into an IFC file for use in BIM software (Revit, BIMcollab, etc.).
+
 
 ## 📎 References
 
