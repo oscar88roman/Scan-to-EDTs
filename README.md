@@ -85,6 +85,7 @@ Turn a classified point cloud into a semantically rich, simulation-ready, and BI
 
 🔹 1. 🛰️ Classify Your Point Cloud
 Segment your 3D scan and assign labels such as:
+
 🧱 wall | 🪟 window | 🚪 door | 🧼 ceiling | 🛗 floor | 🪜 column | ❓ unclassified
 
 🔹 2. 🗂️ Reference Classes in a JSON
