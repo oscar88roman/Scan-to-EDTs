@@ -49,7 +49,7 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 | `model_converter/`  | Utilities for IFC, gbXML, and Topologic model conversion     |
 | `energy_simulator/` | Integration with EnergyPlus (EPJSON-based simulation)        |
 | `iot_interface/`    | Real-time ingestion and formatting of IoT sensor data        |
-| `digital_twin/`     | Modules for monitoring, simulation, and ML-based forecasting |
+| `digital_twin_module/`     | Modules for monitoring, simulation, and ML-based forecasting |
 
 
 ## 📊 Output Examples
@@ -62,12 +62,12 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 
 ## 🔧 Requirements
 
-- Python 3.8+  
+- Python 3.8 +  
 - EnergyPlus  
-- OpenCascade / Topologic  
-- IFCOpenShell  
-- NumPy, Pandas, Scikit-learn  
-- TensorFlow / PyTorch (optional, for ML modules)  
+- OpenCascade
+- Topologic  
+- IFCOpenShell    
+- PyTorch (TorchGeometric)  
 
 ---
 
@@ -98,7 +98,7 @@ Turn a classified point cloud into a semantically rich, simulation-ready, and BI
 
 ➡️ adjacency | connectivity | grouping
 
-🔹 4. 📦 Create EDT Structure (Solid Model)
+🔹 4. 📦 Create EDT Structure (Solid Model + Thematic Surface Model)
 > Run: step_01_scan_to_edts
 
 🔁 Converts point cloud into solid EDT-based volume.
@@ -117,10 +117,14 @@ Turn a classified point cloud into a semantically rich, simulation-ready, and BI
 🔹 7. 🔥 Run Simulation & Export gbXML
 > Run: step_04_energy_simulation_uep
 
-🧾 Generates valid gbXML
-> Use: gbXML_parser_transformer_writer to inspect/edit.
+> 📄 Output: <filename>_<thermal_zone>_temperatures.csv
+> 📄 Output: <filename>_<thermal_zone>_boundaries.csv
 
-🔹 8. 🏢 Export to IFC (Optional)
+🔹8. 🏢 DT module
+🧾 Generates valid DT with sensors/ligths/radiators positions
+> Use: edts_module to inspect results, use data for analysis, visualise results.
+
+🔹 9. 🏢 Export to IFC (Optional)
 > Use: IFC_parser_transformer_writer
 
 ➡️ Export the full model to .IFC for BIM software (Revit, BIMcollab, etc.)
