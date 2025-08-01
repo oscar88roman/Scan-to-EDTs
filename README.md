@@ -9,6 +9,7 @@ This repository provides an end-to-end framework for converting building scan da
 ### 🔍 1. Input & Preprocessing
 - Input **Point Cloud** & Classification via Point Transformer v3 and Pointcept
 - **Scan-to-BIM** (Solid Model) [Roman et al., 2024]
+- **Scan-to-BEM** (devices detection)
 - **Geometric Assessment**
 - **Solid Model**
 - **Topologic B-REP Model**
