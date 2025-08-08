@@ -15,16 +15,17 @@ This repository provides an end-to-end framework for converting building scan da
 - **Topologic B-REP Model**
 
 ### 🧠 2. Semantic Enrichment
-Apply **Information Loading Dictionaries (ILDs)**:
 - Thickness  
 - Materials  
 - Dimensions  
+
+### 🎯 3. Rules and Parameters
+  Apply **Information Loading Dictionaries (ILDs)**:
 - Setpoints (Tmin, Tmax)  
 - Devices & Rules (e.g., European Regulations)
-
 ➡️ Outputs a **Building Energy Model (BEM)** for simulation
 
-### 🧱 3. Model Transformation
+### 🧱 4. Model Transformation
 Convert to:
 - IFC Model  
 - gbXML  
