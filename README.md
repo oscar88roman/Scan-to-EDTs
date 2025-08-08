@@ -19,7 +19,7 @@ This repository provides an end-to-end framework for converting building scan da
 - Materials  
 - Dimensions  
 
-### 🎯 3. Rules and Parameters
+### 🧾 3. Rules and Parameters
   Apply **Information Loading Dictionaries (ILDs)**:
 - Setpoints (Tmin, Tmax)  
 - Devices & Rules (e.g., European Regulations)
@@ -34,7 +34,7 @@ Convert to:
 ➡️ Export using **EPJSON** via parser/transformer/writer tools
 
 ### ⚙️ 4. Simulation & Analysis
-Run with **EnergyPlus**  
+🎯 Run with **EnergyPlus**  
 Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 
 - 📈 **Digital Twin Level 1**: Real-Time Monitoring  
