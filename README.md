@@ -1,4 +1,4 @@
-# 🏗️ Scan-to-BIM to Energy Digital Twin
+# 🏗️ Scan-to-EDTs: Scan to Energy Digital Twin
 
 This repository provides an end-to-end framework for converting building scan data into rich energy simulation models and Digital Twins. It leverages geometric assessment, semantic enrichment, and data-driven modeling to enable **energy-efficient building management and forecasting**.
 
