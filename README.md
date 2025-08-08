@@ -97,7 +97,7 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 ---
 # 🏗️ Scan-to-EDTs Pipeline
 
-Transform a classified point cloud into a **semantically rich**, **simulation-ready**, and **BIM-compatible** building model.
+Transform a classified point cloud into a **BIM/IFC-compatible**, **B-REP semantically rich**, ** BEM simulation-ready** building model.
 
 ---
 
