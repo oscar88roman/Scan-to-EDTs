@@ -7,25 +7,30 @@ This repository provides an end-to-end framework for converting building scan da
 ## 🚀 Workflow Overview
 
 ### 🔍 1. Input & Preprocessing
-- Input **Point Cloud** & Classification via Point Transformer v3 and Pointcept
+- Input **Point Cloud** & Classification
+  - tested via Point Transformer v3, Pointcept, SegmentorV2
+  - Classes  0 floor, 1 ceiling, 2 wall, 3 column, 4 door, 5 window
+
+### 🛠️ 2. 2D and 3D Modelling 
 - **Scan-to-BIM** (Solid Model) [Roman et al., 2024]
 - **Scan-to-BEM** (devices detection)
+  - Classes 6 ligth, 7 radiator, 8 hvac devices    
 - **Geometric Assessment**
-- **Solid Model**
-- **Topologic B-REP Model**
+  - **Solid Model**
+  - **Topologic B-REP Model**
 
-### 🧠 2. Semantic Enrichment
+### 🧠 3. Semantic Enrichment
 - Thickness  
 - Materials  
 - Dimensions  
 
-### 🧾 3. Rules and Parameters
+### 🧾 4. Rules and Parameters
   Apply **Information Loading Dictionaries (ILDs)**:
 - Setpoints (Tmin, Tmax)  
 - Devices & Rules (e.g., European Regulations)
 ➡️ Outputs a **Building Energy Model (BEM)** for simulation
 
-### 🧱 4. Model Transformation
+### 🧱 5. Model Transformation
 Convert to:
 - IFC Model  
 - gbXML  
@@ -33,7 +38,7 @@ Convert to:
 
 ➡️ Export using **EPJSON** via parser/transformer/writer tools
 
-### ⚙️ 5. Simulation & Analysis
+### ⚙️ 6. Simulation & Analysis
 🎯 Run with **EnergyPlus**  
 Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 
