@@ -33,7 +33,7 @@ Convert to:
 
 ➡️ Export using **EPJSON** via parser/transformer/writer tools
 
-### ⚙️ 4. Simulation & Analysis
+### ⚙️ 5. Simulation & Analysis
 🎯 Run with **EnergyPlus**  
 Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 
