@@ -28,7 +28,8 @@ This repository provides an end-to-end framework for converting building scan da
   Apply **Information Loading Dictionaries (ILDs)**:
 - Setpoints (Tmin, Tmax)  
 - Devices & Rules (e.g., European Regulations)
-➡️ Outputs a **Building Energy Model (BEM)** for simulation
+
+➡️ Output **Building Energy Model (BEM) B-REP based** for simulation
 
 ### 🧱 5. Model Transformation
 Convert to:
@@ -50,10 +51,12 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 
 | Module              | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| `scan2bim/`         | Scripts for converting point clouds into solid BIM geometry  |
+| `scan2bim/`         | Scripts for converting classified point clouds into solid BIM geometry  |
 | `scan2edts/`        | Tools for generating topological B-REP models                |
 | `semantic_loader/`  | Load ILDs and attach semantic/typological metadata           |
-| `model_converter/`  | Utilities for IFC, gbXML, and Topologic model conversion     |
+| `model_ifc_converter/`  | Utilities for IFC model conversion     |
+| `model_gbxml_converter/`  | Utilities for gbXML model conversion     |
+| `model_epjson_converter/`  | Utilities for epJSON generator and model conversion     |
 | `energy_simulator/` | Integration with EnergyPlus (EPJSON-based simulation)        |
 | `iot_interface/`    | Real-time ingestion and formatting of IoT sensor data        |
 | `digital_twin_module/`     | Modules for monitoring, simulation, and ML-based forecasting |
@@ -61,7 +64,12 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 
 ## 📊 Output Examples
 
-- Geometric Models for analysis & compliance checks  
+- Geometric Models for analysis & compliance checks
+  - wkt primary output 
+  - BIM/IFC
+  - BEM B-REP
+  - gbXML
+  - epJSON
 - Energy Simulation Graphs showing heating/cooling loads  
 - IoT Monitoring Dashboards for real-time insights  
 
@@ -74,7 +82,8 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 - OpenCascade
 - Topologic  
 - IFCOpenShell    
-- PyTorch (TorchGeometric)  
+- PyTorch (TorchGeometric)
+  - soon .yml file releasing
 
 ---
 
