@@ -160,7 +160,7 @@ Run: `step_04_energy_simulation_uep`
 
 ---
 
-## 🔹 8. 🏢 Generate Digital Twin Data
+## 🔹 8. 🏢 Generate Digital Twin
 
 🧾 Use `edts_module` to:
 
