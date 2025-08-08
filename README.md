@@ -95,7 +95,7 @@ Use **Real-Time IoT Data** & **ML/DL algorithms** for:
 - Building performance benchmarking  
 
 ---
-# 🏗️ End-to-End Building Model Generation Pipeline
+# 🏗️ Scan-to-EDTs Pipeline
 
 Transform a classified point cloud into a **semantically rich**, **simulation-ready**, and **BIM-compatible** building model.
 
